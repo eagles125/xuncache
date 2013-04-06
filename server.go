@@ -15,7 +15,7 @@ var storemap = make(map[string]map[string]interface{})
 
 const (
 	PORT = "1200"
-	PASS = "13009120121"
+	PASS = "pass"
 )
 
 func main() {
