@@ -19,7 +19,7 @@ xuncache 是免费开源的NOSQL(内存数据库) 采用golang开发,简单易�
 支持 php 客户端
 
 LICENSE: under the BSD License
-
+- by [孙彦欣](http://weibo.com/sun8911879)
 php代码示例
 ========
 
