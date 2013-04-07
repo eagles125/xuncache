@@ -2,7 +2,7 @@ xuncache
 ========
 采用golang开发 内存数据库
 
-version 0.1
+version 0.2
 
 类似memcache
 
@@ -17,8 +17,6 @@ version 0.1
 -删除数据
 
 -暂不支持key过期操作
-
---由于通信机制不完善 暂不上传php Client
 
 支持 golang php 客户端
 

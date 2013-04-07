@@ -23,7 +23,7 @@ const (
 
 func main() {
 	//初始内容
-	fmt.Print("Server started, xuncache version 0.1\n")
+	fmt.Print("Server started, xuncache version 0.2\n")
 	//读取配置文件
 	var config = make(map[string]string)
 	config_file, err := os.Open("config.conf") //打开文件
