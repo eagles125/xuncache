@@ -18,8 +18,6 @@ xuncache 是免费开源的NOSQL(内存数据库) 采用golang开发,简单易�
 
 支持 php 客户端
 
-LICENSE: under the BSD License
-- by [孙彦欣](http://weibo.com/sun8911879)
 ## php代码示例
 ========
 
@@ -42,3 +40,6 @@ LICENSE: under the BSD License
 	  ["time"] => string(8) "20130408"
 	}
 	bool(true)
+## 关于
+- by [孙彦欣](http://weibo.com/sun8911879)
+- LICENSE: under the BSD License
