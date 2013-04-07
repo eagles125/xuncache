@@ -106,7 +106,7 @@
             }elseif(@$accept->error == true){
                 return false;
             }
-            if($accept->status=="false"||!$accept->data){
+            if(count((array)$accept->data)<1){
                 return false;
             }
         }

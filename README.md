@@ -19,3 +19,26 @@ xuncache 是免费开源的NOSQL(内存数据库) 采用golang开发,简单易�
 支持 php 客户端
 
 LICENSE: under the BSD License
+
+php代码示例
+========
+
+	$xuncache = new xuncache();
+    $data['name'] = "xuncache";
+    $data['time'] = "20130408";
+    //添加数据
+    $status = $xuncache->key("syx")->add($data);
+    dump($status);
+    //查找数据
+    $cache = $xuncache->key("syx")->find();
+    dump($cache);
+    //删除数据
+    $status = $xuncache->key("syx")->del();
+    dump($status);
+	//////////返回数据
+	bool(true)
+	array(2) {
+	  ["name"] => string(8) "xuncache"
+	  ["time"] => string(8) "20130408"
+	}
+	bool(true)
