@@ -13,6 +13,8 @@ version 0.1
 暂不支持key过期操作
 --由于通信禁制不完善 暂不上传php Client
 支持 golang php 客户端
+
+English
 ========
 Fast in memory database
 LICENSE:under the BSD License
