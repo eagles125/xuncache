@@ -1,7 +1,7 @@
 package main
 
 import (
-  json_sim "./simlejson"
+	json_sim "./simlejson"
 	"encoding/json"
 	"fmt"
 	"net"
