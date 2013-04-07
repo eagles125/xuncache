@@ -18,4 +18,4 @@ version 0.1
 English
 ========
 Fast in memory database
-# LICENSE: under the BSD License
+ LICENSE: under the BSD License
