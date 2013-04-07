@@ -1,19 +1,18 @@
 xuncache
 ========
-²ÉÓÃgolang¿ª·¢ ÄÚ´æÊı¾İ¿â
+é‡‡ç”¨golangå¼€å‘ å†…å­˜æ•°æ®åº“
 version 0.1
-ÀàËÆmemcache
-²ÉÓÃjsonĞ­Òé socketÍ¨ĞÅ --ºóÆÚ´òËãÓÃbson
+ç±»ä¼¼memcache
+é‡‡ç”¨jsonåè®® socketé€šä¿¡ --åæœŸæ‰“ç®—ç”¨bson
 
-Ä¿Ç°¹¦ÄÜ:
-1.Ôö¼ÓorÉèÖÃ
-2.²éÕÒÊı¾İ
-3.É¾³ıÊı¾İ
+ç›®å‰åŠŸèƒ½:
+1.å¢åŠ orè®¾ç½®
+2.æŸ¥æ‰¾æ•°æ®
+3.åˆ é™¤æ•°æ®
 
-Ôİ²»Ö§³Ökey¹ıÆÚ²Ù×÷
---ÓÉÓÚÍ¨ĞÅ½ûÖÆ²»ÍêÉÆ Ôİ²»ÉÏ´«php Client
-Ö§³Ö golang php ¿Í»§¶Ë
+æš‚ä¸æ”¯æŒkeyè¿‡æœŸæ“ä½œ
+--ç”±äºé€šä¿¡ç¦åˆ¶ä¸å®Œå–„ æš‚ä¸ä¸Šä¼ php Client
+æ”¯æŒ golang php å®¢æˆ·ç«¯
 ========
 Fast in memory database
-LICENSE:
-under the BSD License
+LICENSE:under the BSD License
