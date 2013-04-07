@@ -99,6 +99,7 @@ func handleClient(conn net.Conn) {
 	fmt.Printf("Accepted %s\n", ipAddr)
 }
 
+
 func checkError(err error) {
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Fatal error: %s", err.Error())
